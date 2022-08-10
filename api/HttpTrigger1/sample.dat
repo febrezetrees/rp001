@@ -1,3 +1,14 @@
 {
-    "name": "Azure"
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Steak"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Pizza"
+    }
+  ]
 }
